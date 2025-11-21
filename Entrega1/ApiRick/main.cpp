@@ -16,21 +16,6 @@ struct Character
     std::vector<std::string> episodes;
 };
 
-std::string NombreEpisodio(std::string const &url)
-{
-    auto r = cpr::Get(cpr::Url{url});
-
-    if (r.error)
-        return r.error.message;
-    
-    if (r.status_code != 200)
-        return "Desconocido";
-
-    auto j = json::parse(r.text);
-
-    return j.value("name", "Desconocido");
-}
-
 std::vector<Character> parse_characters(const std::string &body)
 {
     std::vector<Character> characters;
@@ -70,6 +55,21 @@ std::vector<Character> parse_characters(const std::string &body)
     }
 
     return characters;
+}
+
+std::string NombreEpisodio(std::string const &url)
+{
+    auto r = cpr::Get(cpr::Url{url});
+
+    if (r.error)
+        return r.error.message;
+
+    if (r.status_code != 200)
+        return "Desconocido";
+
+    auto j = json::parse(r.text);
+
+    return j.value("name", "Desconocido");
 }
 
 int main()
