@@ -1,4 +1,4 @@
-# Atletico De Parla
+# Atlético De Parla
 Grupo Formación Oesía formado por: 
 - Matías Angulo Flores
 - José Antonio Cadenas Sanchez
