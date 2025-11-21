@@ -20,6 +20,9 @@ std::string NombreEpisodio(std::string const &url)
 {
     auto r = cpr::Get(cpr::Url{url});
 
+    if (r.error)
+        return r.error.message;
+    
     if (r.status_code != 200)
         return "Desconocido";
 
