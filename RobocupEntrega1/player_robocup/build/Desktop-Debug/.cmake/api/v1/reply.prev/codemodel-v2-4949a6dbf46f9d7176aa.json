@@ -1,0 +1,121 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c2f70998ec15ed4e9be7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "_deps/min_sock-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.min_sock-build-Debug-3c3507614aee7589a516.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/Desktop-Debug/_deps/min_sock-src"
+				},
+				{
+					"build" : "_deps/min_sock-build/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.min_sock-build.src-Debug-96bb59084b2ef7bb09df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/Desktop-Debug/_deps/min_sock-src/src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "player",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "MinimalCppSocket",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "MinimalSocket::@20e30988526c8cabc0c5",
+					"jsonFile" : "target-MinimalSocket-Debug-818a27819c471bc52b23.json",
+					"name" : "MinimalSocket",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "player_robocup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-player_robocup-Debug-2309d2886e8f3a57e050.json",
+					"name" : "player_robocup",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/Desktop-Debug",
+		"source" : "/home/joset/tecnobit/formacion/Player/player_robocup"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate-complete.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-build.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-configure.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-download.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-install.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-patch.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-test.rule"
+		},
+		{
+			"file" : "/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"min_sock-populate"
+		],
+		"name" : "min_sock-populate"
+	}
+}

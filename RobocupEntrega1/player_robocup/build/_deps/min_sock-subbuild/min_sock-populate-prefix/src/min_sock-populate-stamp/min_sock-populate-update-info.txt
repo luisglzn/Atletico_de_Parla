@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=/usr/bin/cmake;-Dcan_fetch=YES;-P;/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/tmp/min_sock-populate-gitupdate.cmake
+command (disconnected)=/usr/bin/cmake;-Dcan_fetch=NO;-P;/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-subbuild/min_sock-populate-prefix/tmp/min_sock-populate-gitupdate.cmake
+work_dir=/home/joset/tecnobit/formacion/Player/player_robocup/build/_deps/min_sock-src
