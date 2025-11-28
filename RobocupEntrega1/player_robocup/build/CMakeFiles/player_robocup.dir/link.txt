@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/player_robocup.dir/main.cpp.o -o player_robocup   -L/home/joset/tecnobit/formacion/Player/player_robocup/_deps/min_sock-src/build  -Wl,-rpath,/home/joset/tecnobit/formacion/Player/player_robocup/_deps/min_sock-src/build: _deps/min_sock-build/src/libMinimalSocket.a 

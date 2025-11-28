@@ -1,0 +1,104 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"build/Desktop-Debug/_deps/min_sock-src/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 48,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/min_sock-build/src/libMinimalSocket.a"
+			],
+			"targetId" : "MinimalSocket::@20e30988526c8cabc0c5",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/MinimalSocket",
+			"exportName" : "MinimalSocketTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "MinimalSocket::@20e30988526c8cabc0c5",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/min_sock-build/src/CMakeFiles/Export/00fead4fb9c9511afcd3aba7536ee216/Targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				{
+					"from" : "build/Desktop-Debug/_deps/min_sock-src/src/header",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/MinimalSocket",
+			"paths" : 
+			[
+				"build/Desktop-Debug/_deps/min_sock-build/src/MinimalSocketConfig.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/min_sock-build/src",
+		"source" : "build/Desktop-Debug/_deps/min_sock-src/src"
+	}
+}

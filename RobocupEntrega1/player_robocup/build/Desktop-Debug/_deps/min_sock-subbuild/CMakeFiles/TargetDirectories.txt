@@ -1,0 +1,3 @@
+/home/joset/tecnobit/formacion/Player/player_robocup/build/Desktop-Debug/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate.dir
+/home/joset/tecnobit/formacion/Player/player_robocup/build/Desktop-Debug/_deps/min_sock-subbuild/CMakeFiles/edit_cache.dir
+/home/joset/tecnobit/formacion/Player/player_robocup/build/Desktop-Debug/_deps/min_sock-subbuild/CMakeFiles/rebuild_cache.dir
