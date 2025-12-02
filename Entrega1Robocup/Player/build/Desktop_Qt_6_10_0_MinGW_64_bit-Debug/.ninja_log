@@ -1,0 +1,17 @@
+# ninja log v6
+672	4561	7858614712951462	CMakeFiles/Player.dir/main.cpp.obj	4a126ed1ed6dc3ae
+7	10336	7858614706306835	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/Error.cpp.obj	79f5ec9875f14cf6
+189	10374	7858614708134042	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/core/Definitions.cpp.obj	3baa60093a6e53c2
+358	10436	7858614709824570	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/core/SocketContext.cpp.obj	1582deab7be37f1e
+35	11009	7858614706595358	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/SocketAddress.cpp.obj	c7f4a766b37ee11a
+71	11141	7858614706942448	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/SocketFunctions.cpp.obj	47160bbad5ee1df5
+148	11143	7858614707721938	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/core/Address.cpp.obj	d502f05789b5da1
+231	11174	7858614708564118	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/core/Receiver.cpp.obj	a091693b64b2cc86
+108	11235	7858614707326868	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/SocketHandler.cpp.obj	f8a532310812dc1f
+414	11339	7858614710383990	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/tcp/TcpClient.cpp.obj	52ea3919a1b49ef1
+273	11507	7858614708972989	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/core/Sender.cpp.obj	d1b73075263bc22d
+477	11678	7858614711073897	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/tcp/TcpServer.cpp.obj	f12646ee2c477a24
+557	11902	7858614711803921	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/udp/UdpSocket.cpp.obj	dbb4519c1259db09
+314	12243	7858614709382209	_deps/min_sock-build/src/CMakeFiles/MinimalSocket.dir/src/core/Socket.cpp.obj	bf7d3136b48da3d9
+12243	12910	7858614828665326	_deps/min_sock-build/src/libMinimalSocket.a	659f0168c16da76e
+12910	13691	7858614835343626	Player.exe	c617762b0b77f2dd

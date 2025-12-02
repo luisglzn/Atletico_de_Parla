@@ -1,0 +1,3 @@
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate.dir
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/CMakeFiles/rebuild_cache.dir
