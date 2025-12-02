@@ -1,0 +1,3 @@
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate.dir
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/CMakeFiles/edit_cache.dir
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/CMakeFiles/rebuild_cache.dir

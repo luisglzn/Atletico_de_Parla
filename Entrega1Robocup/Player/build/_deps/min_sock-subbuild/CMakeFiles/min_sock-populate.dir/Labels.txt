@@ -1,0 +1,14 @@
+# Target labels
+ min_sock-populate
+# Source files and their labels
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate-complete.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-build.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-configure.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-download.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-install.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-mkdir.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-patch.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-test.rule
+/mnt/c/Users/matan/Desktop/Oesia/Robocup/Player/build/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-update.rule

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Player.dir/main.cpp.o -o Player  _deps/min_sock-build/src/libMinimalSocket.a 
