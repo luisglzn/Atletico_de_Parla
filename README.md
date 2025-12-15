@@ -12,3 +12,6 @@ Grupo Formación Oesía formado por:
 
 ## Video Explicativo (Entrega2-Robocup):
 - https://www.youtube.com/watch?v=DtlhEuLMnr4
+
+## Video Explicativo (Entrega3-Robocup):
+- https://youtu.be/-MaAf1XrsSU
