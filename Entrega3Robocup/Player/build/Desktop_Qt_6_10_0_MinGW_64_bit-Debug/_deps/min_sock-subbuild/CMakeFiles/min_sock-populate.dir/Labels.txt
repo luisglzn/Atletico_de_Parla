@@ -1,0 +1,14 @@
+# Target labels
+ min_sock-populate
+# Source files and their labels
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/CMakeFiles/min_sock-populate-complete.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-build.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-configure.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-download.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-install.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-mkdir.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-patch.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-test.rule
+C:/Users/matan/Desktop/Oesia/Formacion/Player/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/min_sock-subbuild/min_sock-populate-prefix/src/min_sock-populate-stamp/min_sock-populate-update.rule
