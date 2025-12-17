@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd player/build && make && cd ../..
+cd build && make && cd ../..
 
-BUILD_DIR="Player/build"
+BUILD_DIR="build"
 
 for i in {0..10}
 do
