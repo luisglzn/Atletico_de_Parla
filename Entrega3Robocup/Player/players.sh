@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd build && make && cd ../..
+cd build && make && cd ..
 
 BUILD_DIR="build"
 
